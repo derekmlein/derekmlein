@@ -19,4 +19,4 @@ I will be hosting my personal projects here on Github while I further practice m
 -----------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://www.linkedin.com/in/derek-lein-4171a6291"><img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="80"></a>
 <a href="https://public.tableau.com/app/profile/derek.lein/vizzes"><img src="https://billigence.com/wp-content/uploads/2022/08/2-1024x1024.png" width="80"></a>
-<a href="https://github.com/derekmlein"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="60"></a>
+<a href="https://github.com/derekmlein"><img src="https://banner2.cleanpng.com/20180617/uzy/kisspng-gitlab-github-continuous-integration-computer-icon-5b25ebd5d3e583.5178856115292118618679.jpg" width="80"></a>
