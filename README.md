@@ -11,3 +11,9 @@ I began my journey into the world of data in 2026. I currently work as a Data An
 ⚡ Fun fact: I previously worked in the film industry as an assistant editor for 10 years.
 
 💬 Ask me about: My current project, fun collaborations, coding tips/advice, or even your latest film passions.
+
+# Certifications
+
+| Google Data Analytics - Professional |
+|:-:|:-:|:-:|:-:|:-:|
+| ![Google Data Analytics](https://images.credly.com/size/680x680/images/7f02e32a-a1d9-4948-8be5-d05902fbdb3b/blob)
