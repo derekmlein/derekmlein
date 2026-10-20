@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Derek Lein 👋
+
+I began my journey into the world of data in 2026. I currently work as a Data Analytics and Engineering Consultant for The Information Lab US, based in New York City. Here I will be hosting my personal projects while I practice my coding.
 
 <!--
 **derekmlein/derekmlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
