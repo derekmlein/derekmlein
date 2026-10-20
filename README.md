@@ -5,7 +5,9 @@ I began my journey into the world of data in 2026. Originally from California, I
 I will be hosting my personal projects here on Github while I further practice my coding and data visualization skills. Check out my pinned projects below or check out my Tableau Public profile here: [Tableau Public Profile]("https://public.tableau.com/app/profile/derek.lein/vizzes")
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 *Current Personal Project*: Horror Representation at the Oscars - Tableau, Python
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Certifications
@@ -14,5 +16,5 @@ I will be hosting my personal projects here on Github while I further practice m
 
 ### Links
 -----------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://www.linkedin.com/in/derek-lein-4171a6291"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" width="20"></a>
-<a href="https://public.tableau.com/app/profile/derek.lein/vizzes"><img src="https://billigence.com/wp-content/uploads/2022/08/2-1024x1024.png" width="20"></a>
+<a href="https://www.linkedin.com/in/derek-lein-4171a6291"><img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="80"></a>
+<a href="https://public.tableau.com/app/profile/derek.lein/vizzes"><img src="https://billigence.com/wp-content/uploads/2022/08/2-1024x1024.png" width="80"></a>
