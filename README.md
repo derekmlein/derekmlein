@@ -13,7 +13,7 @@ I began my journey into the world of data in 2026. I currently work as a Data An
 
 💬 Ask me about: My current project, fun collaborations, coding tips/advice, or even your latest film passions.
 
-# Certifications
+### Certifications
 
 | Google Data Analytics - Professional |
 
