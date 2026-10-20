@@ -6,7 +6,7 @@ I began my journey into the world of data in 2026. I currently work as a Data An
 🌱 I’m currently learning: Python
 😄 Pronouns: he/him
 ⚡ Fun fact: I previously worked in the film industry as an assistant editor for 10 years.
-💬 Ask me about: My current project, fun collaborations, coding tips/advice, or even your latest film passions
+💬 Ask me about: My current project, fun collaborations, coding tips/advice, or even your latest film passions.
 <!--
 **derekmlein/derekmlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
