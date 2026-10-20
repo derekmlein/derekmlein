@@ -2,6 +2,7 @@
 
 I began my journey into the world of data in 2026. I currently work as a Data Analytics and Engineering Consultant for The Information Lab US, based in New York City. Here I will be hosting my personal projects while I practice my coding.
 
+
  🔭 I’m currently working on: A dashboard examining the representation of the horror genre at the Oscars.
 
 🌱 I’m currently learning: Python
@@ -12,7 +13,8 @@ I began my journey into the world of data in 2026. I currently work as a Data An
 
 💬 Ask me about: My current project, fun collaborations, coding tips/advice, or even your latest film passions.
 
-# Certifications
+### Certifications
 
 | Google Data Analytics - Professional |
-| [![Google Data Analytics](https://images.credly.com/size/200x200/images/7f02e32a-a1d9-4948-8be5-d05902fbdb3b/blob)](https://www.credly.com/badges/a137524c-01a5-4d17-9a9e-14867b9711f9)
+
+<a href="https://www.credly.com/badges/a137524c-01a5-4d17-9a9e-14867b9711f9"><img src="https://images.credly.com/size/680x680/images/7f02e32a-a1d9-4948-8be5-d05902fbdb3b/blob" alt="Google Data Analytics" width="120"></a>
