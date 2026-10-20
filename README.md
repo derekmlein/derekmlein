@@ -15,5 +15,4 @@ I began my journey into the world of data in 2026. I currently work as a Data An
 # Certifications
 
 | Google Data Analytics - Professional |
-|:-:|:-:|:-:|:-:|:-:|
-| [![Google Data Analytics](https://images.credly.com/size/680x680/images/7f02e32a-a1d9-4948-8be5-d05902fbdb3b/blob)](https://www.credly.com/badges/a137524c-01a5-4d17-9a9e-14867b9711f9)
+| [![Google Data Analytics](https://images.credly.com/size/200x200/images/7f02e32a-a1d9-4948-8be5-d05902fbdb3b/blob)](https://www.credly.com/badges/a137524c-01a5-4d17-9a9e-14867b9711f9)
